@@ -1,0 +1,33 @@
+body {
+  background-image: url(../images/brooklyn-nine-nine-wallpapers-31532-7322821.jpg);
+  background-size: cover;
+}
+#startUpMenu {
+  margin-top: 20px;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+#mainTriviaMenu {
+  display: none;
+  width: 80%;
+  margin: auto;
+}
+#scoreMenu {
+  margin: 10%;
+  width: 80%;
+  display: none;
+}
+button {
+  margin-top: 10px;
+}
+.jumbotron {
+  background-color: whitesmoke;
+}
+.col-sm-6 {
+  padding-left: auto;
+  padding-right: auto;
+}
+.question {
+  padding: 5px;
+}
